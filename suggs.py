@@ -1,3 +1,4 @@
+// Import all the necessary libraries
 import cv2
 import pytesseract
 import ttkbootstrap as ttk
@@ -6,7 +7,6 @@ import webbrowser
 from tkinter import filedialog, Text, Label, messagebox, Scrollbar
 import re
 from PIL import Image, ImageTk
-
 
 pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 SERPAPI_KEY = "Enter Your API"
