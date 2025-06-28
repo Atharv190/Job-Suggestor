@@ -10,6 +10,7 @@ An AI-powered tool to extract skills from resumes and find relevant job opportun
 ✅ Clickable Job Links – Open job postings directly from the app.
 ✅ User-Friendly Interface – Clean and modern UI for seamless interaction.
 ✅ Reset & Refresh – Easily clear extracted data and start fresh.
+Ai
 
 🛠 Technologies Used
 
